@@ -1,6 +1,7 @@
 # Applets en Java - Jcreator
 
 Programas con POO para obtener el vector, ecuaciones y la hora.
+
 - Magnitud de un vector 3D
 ![image](https://user-images.githubusercontent.com/67843396/224191253-4fd6677d-48c0-46c6-90b2-3254a9056f98.png)
 

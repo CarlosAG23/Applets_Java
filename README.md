@@ -1,5 +1,7 @@
 # Applets en Java - Jcreator
 
-Programas con POO para la clase ecuaciones con sus propiedades y metodos.
-Programas con POO en java para definir la hora con sus datos y funciones miembros adecuados para una un segundo en el dato miembro segundo y que verifique si hay cambio de hora 
-![image](https://user-images.githubusercontent.com/67843396/224190831-93186291-a536-4a58-b761-d796b876a814.png)
+Programas con POO para obtener el vector, ecuaciones y la hora.
+Vector 
+![image](https://user-images.githubusercontent.com/67843396/224191253-4fd6677d-48c0-46c6-90b2-3254a9056f98.png)
+
+![image](https://user-images.githubusercontent.com/67843396/224191166-d018dc66-69d1-4dec-8496-96e194c98a92.png)

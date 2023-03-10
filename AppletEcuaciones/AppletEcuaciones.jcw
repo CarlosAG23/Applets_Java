@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>AppletEcuaciones</label>
+	</settings>
+	<users>
+		<user>
+			<path>AppletEcuaciones.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>AppletEcuaciones.jcp</path>
+		</project>
+	</projects>
+</workspace>

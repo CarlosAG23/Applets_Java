@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Vectord</label>
+	</settings>
+	<users>
+		<user>
+			<path>Vectord.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Vectord.jcp</path>
+		</project>
+	</projects>
+</workspace>
